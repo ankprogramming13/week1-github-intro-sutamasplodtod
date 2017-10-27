@@ -128,7 +128,7 @@ function fancyAlert(arg) {
 |โรงเรียนแปลงยาวพิทยาคม   |   ม.3  |       2557      |
 |วิทยาลัยอาชีวศึกษาฉะเชิงเทรา|  ปวช.3 |       2559      |
 
-### เว็บไซต์ https://beacfd4f-a-62cb3a1a-s-sites.googlegroups.com/site/christsutamas/home/18447044_2105610722998794_5302150775460828390_n.jpg?attachauth=ANoY7cqc_mFLFl1K69LKpwgSrKvR4vl_OkjdqeAm38ZGYG9oEaLRzZNiSCETbsttQ1iTzT1owfUgrbmJUproR494H31fSexpBrilkzJjCOAvcxjFzKX0JjlOdydqZYvEA6ZFbcq7WioiqK9-AFsnSESi2NcoTZ3cNuCwmoKIg7kuJYNXx7rmEiUiw0i2kvyiwJ_TzIQKqTQJuzUXTrbvQmrbP4BAb4FLZ83FnXvIW2FU3cV1FE0FD9omaMq9uz2-g_IoF-2o9zyvLtZPSJlHJzTD5fNpYoHosg%3D%3D&attredirects=0
+> เว็บไซต์ e-portfolio สามารถศึกษารายละเอียดได้จาก **[ที่นี่](https://beacfd4f-a-62cb3a1a-s-sites.googlegroups.com/site/christsutamas/home/18447044_2105610722998794_5302150775460828390_n.jpg?attachauth=ANoY7cqc_mFLFl1K69LKpwgSrKvR4vl_OkjdqeAm38ZGYG9oEaLRzZNiSCETbsttQ1iTzT1owfUgrbmJUproR494H31fSexpBrilkzJjCOAvcxjFzKX0JjlOdydqZYvEA6ZFbcq7WioiqK9-AFsnSESi2NcoTZ3cNuCwmoKIg7kuJYNXx7rmEiUiw0i2kvyiwJ_TzIQKqTQJuzUXTrbvQmrbP4BAb4FLZ83FnXvIW2FU3cV1FE0FD9omaMq9uz2-g_IoF-2o9zyvLtZPSJlHJzTD5fNpYoHosg%3D%3D&attredirects=0)**
 
 ## เครื่องปรุงและวัตถุดิบทำ ลาบหมู น้ำตกหมู มีอะไรบ้าง
 
@@ -175,13 +175,12 @@ function fancyAlert(arg) {
 4. หากให้นักศึกษาอ่านไฟล์ markdown โดยไม่ต้องผ่านเว็บ นักเรียนจะอ่านรู้เรื่องหรือไม่ 
 
 **$$7** 
-#### - [x] รู้เรื่อง  
-#### - [ ] ไม่รู้เรื่อง
+- [x] รู้เรื่อง  
+- [ ] ไม่รู้เรื่อง
 **$$7** 
 
 ### สรุปผลการทดลอง
 
 **$$$$8**
 ## ได้เรียนรู้เกี่ยวกับการจัดรูปแบบของข้อความให้มีความเป็นระเบียบเรียบร้อย ในการจัดข้อมูลต่างๆ
-
 **$$$$8**
